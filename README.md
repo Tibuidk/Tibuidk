@@ -43,17 +43,9 @@
 
 <br>
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<br>
 
 ## 📬 Contacto
 
-- 📧 Email: [tu_email@ejemplo.com](mailto:tu_email@ejemplo.com)
-- 💻 GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
-- 🐦 Twitter: [@tu_twitter](https://twitter.com/tu_twitter)
+- 💬 Discord: [Tibuidk](Tibuidk)
+- 💻 GitHub: [@ValenTIPS](https://github.com/ValenTIPs)
+- 🐦 Twitter: [@Tibuidk](https://x.com/Tibuidk)
