@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">¡Hola, soy Tibuidk 👋</h1>
 <h3 align="center">Aprendiendo a programar | Futuro especialista en Ciberseguridad 🔐</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Explorando+el+mundo+del+c%C3%B3digo...;Aprendiendo+Python+todos+los+d%C3%ADas;Hacking+%C3%A9tico+en+progreso...;Construyendo+mi+camino+en+Cybersecurity" alt="Typing SVG" />
